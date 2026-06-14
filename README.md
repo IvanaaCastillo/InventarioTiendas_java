@@ -1,4 +1,4 @@
-# Inventario Para Tiendas Skillnest 
+# 📦 Inventario Para Tiendas Skillnest 
 
 ## Descripción
 
@@ -7,7 +7,7 @@ como herencia, encapsulamiento, polimorfismo y reutilización de código.
 
 ---
 
-## Objetivos
+## 🎯 Objetivos
 
 - Comprender y aplicar el concepto de herencia en la programación orientada a objetos.
 - Practicar la creación de una clase base y clases derivadas utilizando herencia.
